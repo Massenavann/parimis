@@ -1,0 +1,97 @@
+* { 
+    font-family: 'Roboto', sans-serif;   
+}
+.rounded{
+    margin: 0 auto;
+}
+.langue{
+    padding-right: 20px;
+}
+.navbar{
+    background-color: rgb(4, 44, 94);
+    padding-left: 10%;
+    padding-right: 10%;    
+}
+h1{
+    color: #f0c069;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+h3{
+    text-align: center;
+}
+.conteneur{
+    margin: 0 auto;
+    width: 70%;
+    height: auto;
+    text-align: justify;    
+}
+.textgastro{
+    padding-top: 30px;
+}
+.responsive{
+    width: 100%;
+    height: auto;
+}
+.brasserie{
+    margin: 0 auto;
+    width: 70%;
+    min-width: 300px;
+    text-align: justify;
+    height: 30%;
+}
+.gastro2{
+    width: 100%;
+    min-width: 300px;
+}
+
+footer{
+    background-color: rgb(4, 44, 94);
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: white;
+    flex-direction: column;
+    text-align: center;
+   
+    
+    
+}
+.nom{
+    color: #e6a01e;
+}
+.fa-brands{
+    margin-top: 20px;
+    color: white;
+    padding: 10px;
+
+      
+}
+.pied{
+    margin: 0 auto;
+    padding-top: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.copyright{
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+    
+
+
+    
+    
+   
+    
+
+
+
+    

@@ -1,0 +1,93 @@
+* { 
+    font-family: 'Roboto', sans-serif;   
+}
+.rounded{
+    margin: 0 auto;
+}
+.langue{
+    padding-right: 20px;
+}
+.navbar{
+    background-color: rgb(4, 44, 94);
+    padding-left: 10%;
+    padding-right: 10%;    
+}
+
+.carousel-inner{
+    margin: 0;
+    padding: 0;
+    max-height: 600px;
+      
+}
+.carousel-item{
+    height: auto;
+}
+
+
+
+
+
+.carte{
+    margin: 30px;
+    position: relative;
+    overflow: hidden;
+    padding-top: 30%;
+}
+.responsive-iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+
+}
+
+footer{
+    background-color: rgb(4, 44, 94);
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: white;
+    flex-direction: column;
+    text-align: center;
+      
+}
+.nom{
+    color: #e6a01e;
+}
+.fa-brands{
+    margin-top: 20px;
+    color: white;
+    padding: 10px;
+
+      
+}
+.pied{
+    margin: 0 auto;
+    padding-top: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.copyright{
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+    
+
+
+    
+    
+   
+    
+
+
+
+    

@@ -1,0 +1,86 @@
+* { 
+    font-family: 'Roboto', sans-serif;   
+}
+.rounded{
+    margin: 0 auto;
+}
+.langue{
+    padding-right: 20px;
+}
+.navbar{
+    background-color: rgb(4, 44, 94);
+    padding-left: 10%;
+    padding-right: 10%;    
+}
+.conteneur{   
+    padding-top: 40px;
+    padding-left: 200px;
+    padding-right: 200px;
+    
+}
+h2{
+    padding-bottom: 30px;
+    color: #F0c069;
+}
+h4{
+    
+    color: #F0c069;
+}
+ul{
+    list-style-type: disc;
+}
+li{
+    display: list-item;
+    
+    
+}
+
+
+
+footer{
+    background-color: rgb(4, 44, 94);
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: white;
+    flex-direction: column;
+    text-align: center;
+       
+}
+.nom{
+    color: #e6a01e;
+}
+.fa-brands{
+    margin-top: 20px;
+    color: white;
+    padding: 10px;
+
+      
+}
+.pied{
+    margin: 0 auto;
+    padding-top: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.copyright{
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+    
+
+
+    
+    
+   
+    
+
+
+
+    

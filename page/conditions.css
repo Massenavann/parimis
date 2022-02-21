@@ -1,0 +1,77 @@
+body{
+    margin: 0 auto;
+    }
+#conteneur{
+    padding: 30px;
+    margin: 0 auto;
+    width: 70%;
+   text-align: justify;
+
+}
+h1{
+    text-align: center;
+    padding: 40px;
+}
+* { 
+    font-family: 'Roboto', sans-serif;   
+}
+.rounded{
+    margin: 0 auto;
+}
+.langue{
+    padding-right: 20px;
+}
+.navbar{
+    background-color: rgb(4, 44, 94);
+    padding-left: 10%;
+    padding-right: 10%;    
+}
+
+
+footer{
+    background-color: rgb(4, 44, 94);
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: white;
+    flex-direction: column;
+    text-align: center;
+       
+}
+.nom{
+    color: #e6a01e;
+}
+.fa-brands{
+    margin-top: 20px;
+    color: white;
+    padding: 10px;
+
+      
+}
+.pied{
+    margin: 0 auto;
+    padding-top: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.copyright{
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+    
+
+
+    
+    
+   
+    
+
+
+
+    

@@ -1,0 +1,116 @@
+* { 
+    font-family: 'Roboto', sans-serif;   
+}
+body{
+    background-color: rgba(250, 249, 248, 0.993);
+}
+.rounded{
+    margin: 0 auto;
+}
+.langue{
+    padding-right: 20px;
+}
+.navbar{
+    background-color: rgb(4, 44, 94);
+    padding-left: 10%;
+    padding-right: 10%;    
+}
+
+.conteneur{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+   
+  
+}
+input, select, textarea{
+    width: 100%;
+    margin-bottom: 10px;
+    border: 1px solid;
+
+}
+input, select{
+    height: 30px;
+}
+#formulaire{
+    width: 30%;   
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    padding: 20px;
+    border: 1px solid;
+    background-color: #efefef; 
+    min-width: 300px;  
+}
+.radio{
+    width: initial;
+    margin-bottom: 0;
+}
+textarea{
+    resize: vertical;
+}
+h1{
+    text-align: center;
+    color: #f0c069;
+}
+p{
+    text-align: center;
+}
+.btn1{
+    background-color: royalblue;
+    color: white;
+    cursor: pointer;
+    width: 100%;
+   
+
+}
+
+
+
+footer{
+    background-color: rgb(4, 44, 94);
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: white;
+    flex-direction: column;
+    text-align: center;
+}
+.nom{
+    color: #e6a01e;
+}
+.fa-brands{
+    margin-top: 20px;
+    color: white;
+    padding: 10px;
+
+      
+}
+.pied{
+    margin: 0 auto;
+    padding-top: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.copyright{
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+    
+
+
+    
+    
+   
+    
+
+
+
+    
